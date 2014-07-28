@@ -34,6 +34,6 @@
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@10.178.22.43:1521:vsb</dbURI>
+	    <dbURI>jdbc:oracle:thin:@10.178.22.43:1521:db7ng</dbURI>
 	</DatabaseVSB>
 </ConnConfig>
