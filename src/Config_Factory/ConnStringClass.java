@@ -1,6 +1,6 @@
 package Config_Factory;
 
-public class ConnStringClass implements ConnString {
+public class ConnStringClass {
 	private String dbDriverName;
 	private String dbUid;
 	private String dbPwd;
