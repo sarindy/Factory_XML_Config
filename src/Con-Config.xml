@@ -4,36 +4,36 @@
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@192.168.50.11:1521:db1</dbURI>
+	    <dbURI>jdbc:oracle:thin:@10.178.22.42:1521:db1</dbURI>
 	</DatabaseHQ>
 	<DatabaseSRB>
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@192.168.50.11:1521:srb</dbURI>
+	    <dbURI>jdbc:oracle:thin:@10.178.22.42:1521:srb</dbURI>
 	</DatabaseSRB>
 	<DatabaseSVB>
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@192.168.50.11:1521:svb</dbURI>
+	    <dbURI>jdbc:oracle:thin:@10.178.22.42:1521:svb</dbURI>
 	</DatabaseSVB>
 	<DatabaseBBB>
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@192.168.50.11:1521:bbb</dbURI>
+	    <dbURI>jdbc:oracle:thin:@10.178.22.42:1521:bbb</dbURI>
 	</DatabaseBBB>
 	<DatabaseOPB>
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@192.168.50.11:1521:opb</dbURI>
+	    <dbURI>jdbc:oracle:thin:@10.178.22.42:1521:opb</dbURI>
 	</DatabaseOPB>
 	<DatabaseVSB>
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@192.168.50.11:1521:vsb</dbURI>
+	    <dbURI>jdbc:oracle:thin:@10.178.22.43:1521:vsb</dbURI>
 	</DatabaseVSB>
 </ConnConfig>
