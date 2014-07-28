@@ -8,7 +8,7 @@ import org.jdom.Element;
 import org.jdom.JDOMException;
 import org.jdom.input.SAXBuilder;
 
-public class ConnStrinFactory {
+public class ConnStringFactory {
 
 	public ConnStringClass getConnString(String whichConn){
 		SAXBuilder builder = new SAXBuilder();

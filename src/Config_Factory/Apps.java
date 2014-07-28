@@ -4,7 +4,7 @@ public class Apps {
 
 	public static void main(String[] args) {
 		ConnStringClass connString;
-		ConnStrinFactory connStringFactory=new ConnStrinFactory();
+		ConnStringFactory connStringFactory=new ConnStringFactory();
 		
 		 connString =connStringFactory.getConnString("hq");
 		System.out.println(connString.getDbDriverName());
