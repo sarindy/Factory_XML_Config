@@ -29,7 +29,7 @@ public class Apps {
 		List<TranxModel> tranxs = new ArrayList<TranxModel>();
 
 		Tranx tranx = new Tranx();
-		tranx.getAllTranx("vsb", 0);
+		tranx.getAllTranx("hq", 0);
 		tranxs = tranx.getTranxs();
 
 		if (tranxs.size() > 0) {

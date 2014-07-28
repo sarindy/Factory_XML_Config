@@ -4,7 +4,7 @@
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
 	    <dbUser>ucb</dbUser>
 	    <dbPassword>qwe</dbPassword>
-	    <dbURI>jdbc:oracle:thin:@10.178.22.42:1521:db1</dbURI>
+	    <dbURI>jdbc:oracle:thin:@192.168.1.103:1521:orcl</dbURI>
 	</DatabaseHQ>
 	<DatabaseSRB>
 	    <dbDriverName>oracle.jdbc.driver.OracleDriver</dbDriverName>
